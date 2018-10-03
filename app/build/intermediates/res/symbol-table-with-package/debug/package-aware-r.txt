@@ -698,8 +698,8 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
-id editText1
-id editText3
+id editText
+id editText2
 id edit_query
 id end
 id expand_activities_button
@@ -723,6 +723,7 @@ id italic
 id left
 id line1
 id line3
+id linearLayout
 id listMode
 id list_item
 id message
@@ -782,8 +783,6 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
-id textView3
-id textView4
 id time
 id title
 id titleDividerNoCustom

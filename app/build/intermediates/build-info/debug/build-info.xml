@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.2.0"
-    timestamp="1538560896622"
+    timestamp="1538577191022"
     token="-1227628681621730158"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -30,10 +30,10 @@
         location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -65,7 +65,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1538560896622"
+        timestamp="1538577191022"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
@@ -74,10 +74,10 @@
             location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\PROJECTS ANDROID\NOD\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
