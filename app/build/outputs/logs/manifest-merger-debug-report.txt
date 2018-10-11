@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4dabd51ae26c7219162b0f93c623ad63\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\241a1f4b522492958d25a9934c6ada37\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\15d11a809930d207542c54e6c283e85e\AndroidManifest.xml:17:1-22:12
@@ -31,25 +31,25 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Николай\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\d50d605b27c4a0fe4e22fc4fbf484cbc\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4a129fca9f29ac17fabc2e1b5bf5d4dc\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\cb1f9cf80042c90502d1a94974939e5e\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
 		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
-		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
-		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:1-27:12
 		INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:5:5-25:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\241a1f4b522492958d25a9934c6ada37\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\241a1f4b522492958d25a9934c6ada37\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Николай\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d859ffaa5d7f399f9c8820582bde4ccb\AndroidManifest.xml:22:5-94
@@ -84,6 +84,18 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.nickolay.nod.DisplayMessageActivity
+ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:parentActivityName
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:20:17-59
+	android:name
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:19:19-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:21:13-23:49
+	android:value
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:23:17-46
+	android:name
+		ADDED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml:22:17-63
 uses-sdk
 INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\PROJECTS ANDROID\NOD\app\src\main\AndroidManifest.xml

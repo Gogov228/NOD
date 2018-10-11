@@ -25,6 +25,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.nickolay.nod.DisplayMessageActivity"
+            android:parentActivityName="com.example.nickolay.nod.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
 
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"

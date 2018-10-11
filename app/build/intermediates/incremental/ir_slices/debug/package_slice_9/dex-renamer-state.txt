@@ -1,4 +1,4 @@
-#Thu Oct 04 18:59:53 VLAT 2018
+#Thu Oct 11 19:47:24 VLAT 2018
 base.0=C\:\\PROJECTS ANDROID\\NOD\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex
